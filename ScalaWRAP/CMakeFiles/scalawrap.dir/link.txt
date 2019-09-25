@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscalawrap.a  CMakeFiles/scalawrap.dir/src/Context.cpp.o CMakeFiles/scalawrap.dir/src/ScalaMat.cpp.o CMakeFiles/scalawrap.dir/src/MPI_utils.cpp.o CMakeFiles/scalawrap.dir/src/C_interface.cpp.o CMakeFiles/scalawrap.dir/src/BLAS.cpp.o CMakeFiles/scalawrap.dir/src/SVD.cpp.o
+/usr/bin/ranlib libscalawrap.a

@@ -1,0 +1,1 @@
+/usr/tce/packages/intel/intel-19.0.4/bin/ifort   -O3 CMakeFiles/FortranCInterface.dir/main.F.o CMakeFiles/FortranCInterface.dir/call_sub.f.o CMakeFiles/FortranCInterface.dir/call_mod.f90.o  -o FortranCInterface libsymbols.a libmyfort.a -lirng -ldecimal -lcilkrts -lstdc++ 
